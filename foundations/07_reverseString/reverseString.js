@@ -11,7 +11,7 @@ const reverseString = function seperateCharacters(string) {
     return newString;
 };
 
-console.log(reverseString("hello"));
+console.log(reverseString("hello gee"));
 
 // Do not edit below this line
 module.exports = reverseString;
